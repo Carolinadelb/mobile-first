@@ -1,0 +1,56 @@
+.carousel-indicators{
+ list-style: circle;
+}
+/*Sección Fotos con testimonio*/
+.photos{
+  margin-top: 3em;
+}
+/*Título testimonios*/
+#titleT{
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-size: 35px;
+}
+/*Título contacto*/
+.titleC{
+  text-align: center;
+}
+/*Sección Contacto*/
+.contact1{
+  margin-top: 1em;
+  padding: 1em;
+  background-color:#FA8072;
+}
+.btn-primary{
+  background-color: rgb(226, 226, 226);
+  border:none;
+  color: black;
+}
+.contact1{
+  margin-top: 4em;
+}
+.contac{
+  padding: 4em;
+}
+.titleC{
+  margin-top: 1em;
+  color: white;
+}
+
+
+/*Iconos sociales*/
+.socialIcons{
+  margin-top: 2em;
+  margin-bottom: 2em;
+  text-align: center;
+  font-size: 25px;
+}
+
+.fab{
+  color: black;
+}
+.fa-facebook-f{
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
